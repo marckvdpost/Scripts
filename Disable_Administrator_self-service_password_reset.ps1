@@ -1,0 +1,1 @@
+﻿Set-MsolCompanySettings -SelfServePasswordResetEnabled $False

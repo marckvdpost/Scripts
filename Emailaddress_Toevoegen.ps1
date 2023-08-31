@@ -1,0 +1,1 @@
+﻿Set-Mailbox %mailboxnaam% -EmailAddresses @{Add='@domein.nl'}
